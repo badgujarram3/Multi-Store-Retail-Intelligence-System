@@ -203,4 +203,4 @@ Role: Data Analyst Enthusiast
 
 LinkedIn: https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
 
-GitHub: https://github.com/badgujarram3/Multi-Store-Retail-Intelligence-System
+GitHub: https://github.com/badgujarram3
